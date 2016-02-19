@@ -21,6 +21,10 @@ Secondly, subject and activity files (subject_test.txt, y_test.txt and subject_t
 Finally, the results are read from the cvs-files (X_test.txt and X_train.txt) and merged via cbind() with subject and activity data.
 
 At the end, the resulting test and training data is merged by placing the dataframes on top of each other via rbind() and the resulting file is exported in .txt format.
+
+Important note: Part 5 of the assignment is missing since I ran out of time. 
+
+To reviewers: Have fun.
 Jakob Larsen, 19 Feb 2016.
 
 
