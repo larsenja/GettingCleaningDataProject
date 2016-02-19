@@ -3,7 +3,7 @@ Repo for the Getting and Cleaning Data Course Project.
 
 This repo contains my work for Getting and Cleaning Data Course Project, Jan - Feb 2016.
 
-The repo contains 1) a R-script that does the required analysis, 2) a Mark Down document describing variables, data and transformations and 3) a data set in .txt format, the output of the R-script.
+The repo contains 1) a R-script that does the required analysis (run_analysis.R), 2) a Mark Down document describing variables, data and transformations (CodeBook.MD) and 3) a data set in .txt format (finaldata.txt), the output of the R-script.
 
 The script assumes that the files from the project description is located in your Working Directory and has a similar structure.
 I run R version ?? on a Windows PC.
