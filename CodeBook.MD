@@ -135,67 +135,67 @@ tBodyGyroJerkMag-mean()
 *	Angular Velocity, time domain, mean of measurements for given subject and activity. Magnitude calculated using Euclidian Norm.
 
 tBodyGyroJerkMag-std()
-•	Angular Velocity, time domain, standard deviation of measurements for given subject and activity. Magnitude calculated using Euclidian Norm.
+* Angular Velocity, time domain, standard deviation of measurements for given subject and activity. Magnitude calculated using Euclidian Norm.
 
 fBodyAcc-mean()-X
-•	Body acceleration, frequency domain, x direction, mean of measurements for given subject and activity
+* Body acceleration, frequency domain, x direction, mean of measurements for given subject and activity
 
 fBodyAcc-mean()-Y
-•	Body acceleration, frequency domain, y direction, mean of measurements for given subject and activity
+* Body acceleration, frequency domain, y direction, mean of measurements for given subject and activity
 
 fBodyAcc-mean()-Z
-•	Body acceleration, frequency domain, z direction, mean of measurements for given subject and activity
+* Body acceleration, frequency domain, z direction, mean of measurements for given subject and activity
 
 fBodyAcc-std()-X
-•	Body acceleration, frequency domain, x direction, standard deviation of measurements for given subject and activity
+* Body acceleration, frequency domain, x direction, standard deviation of measurements for given subject and activity
 
 fBodyAcc-std()-Y
-•	Body acceleration, frequency domain, y direction, standard deviation of measurements for given subject and activity
+* Body acceleration, frequency domain, y direction, standard deviation of measurements for given subject and activity
 
 fBodyAcc-std()-Z
-•	Body acceleration, frequency domain, z direction, standard deviation  of measurements for given subject and activity
+* Body acceleration, frequency domain, z direction, standard deviation  of measurements for given subject and activity
 
 fBodyAccJerk-mean()-X
-•	Body acceleration, frequency domain, x direction, mean of measurements for given subject and activity. Measured in time.
+* Body acceleration, frequency domain, x direction, mean of measurements for given subject and activity. Measured in time.
 
 fBodyAccJerk-mean()-Y
-•	Body acceleration, frequency domain, y direction, mean of measurements for given subject and activity. Measured in time.
+* Body acceleration, frequency domain, y direction, mean of measurements for given subject and activity. Measured in time.
 
 fBodyAccJerk-mean()-Z
-•	Body acceleration, frequency domain, z direction, mean of measurements for given subject and activity. Measured in time.
+* Body acceleration, frequency domain, z direction, mean of measurements for given subject and activity. Measured in time.
 
 fBodyAccJerk-std()-X
-•	Body acceleration, frequency domain, x direction, standard deviation of measurements for given subject and activity. Measured in time.
+* Body acceleration, frequency domain, x direction, standard deviation of measurements for given subject and activity. Measured in time.
 
 fBodyAccJerk-std()-Y
-•	Body acceleration, frequency domain, y direction, standard deviation of measurements for given subject and activity. Measured in time.
+* Body acceleration, frequency domain, y direction, standard deviation of measurements for given subject and activity. Measured in time.
 
 fBodyAccJerk-std()-Z
-•	Body acceleration, frequency domain, z direction, standard deviation of measurements for given subject and activity. Measured in time.
+* Body acceleration, frequency domain, z direction, standard deviation of measurements for given subject and activity. Measured in time.
 
 fBodyGyro-mean()-X
-•	Angular velocity, frequency domain, x direction, mean of measurements for given subject and activity
+* Angular velocity, frequency domain, x direction, mean of measurements for given subject and activity
 
 fBodyGyro-mean()-Y
-•	Angular velocity, frequency domain, y direction, mean of measurements for given subject and activity
+* Angular velocity, frequency domain, y direction, mean of measurements for given subject and activity
 
 fBodyGyro-mean()-Z
-•	Angular velocity, frequency domain, z direction, mean of measurements for given subject and activity
+* Angular velocity, frequency domain, z direction, mean of measurements for given subject and activity
 
 fBodyGyro-std()-X
-•	Angular velocity, frequency domain, x direction, standard deviation of measurements for given subject and activity
+* Angular velocity, frequency domain, x direction, standard deviation of measurements for given subject and activity
 
 fBodyGyro-std()-Y
-•	Angular velocity, frequency domain, y direction, standard deviation of measurements for given subject and activity
+* Angular velocity, frequency domain, y direction, standard deviation of measurements for given subject and activity
 
 fBodyGyro-std()-Z
-•	Angular velocity, frequency domain, z direction, standard deviation of measurements for given subject and activity
+* Angular velocity, frequency domain, z direction, standard deviation of measurements for given subject and activity
 
 fBodyAccMag-mean()
-•	Body acceleration, frequency domain, mean of measurements for given subject and activity. Magnitude calculated using Euclidian Norm.
+* Body acceleration, frequency domain, mean of measurements for given subject and activity. Magnitude calculated using Euclidian Norm.
 
 fBodyAccMag-std()
-•	Body acceleration, frequency domain, standard deviation of measurements for given subject and activity. Magnitude calculated using Euclidian Norm.
+* Body acceleration, frequency domain, standard deviation of measurements for given subject and activity. Magnitude calculated using Euclidian Norm.
 
 fBodyBodyAccJerkMag-mean()
 
