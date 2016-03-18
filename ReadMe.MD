@@ -1,4 +1,5 @@
 # Getting and Cleaning Data Course Project
+This repo contains my work for Getting and Cleaning Data Course Project, Feb - Mar 2016.
 Jakob Larsen, March 18 2016
 
 ## Contents
