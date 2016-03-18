@@ -35,14 +35,14 @@ Variables are normalized and bounded within [-1,1].
 
 ## Variable descriptions
 
-* subject
-..*	Subject identifier, range: 1-30
+1. subject
+  *	Subject identifier, range: 1-30
 
-activity
-..*	Activity type performed by subjects. Values: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
+2. activity
+  *	Activity type performed by subjects. Values: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 
-tBodyAcc-mean()-X 
-..* Body acceleration signal derived in the time domain, mean, X-direction. Range: [-1,1]
+3. tBodyAcc-mean()-X 
+  * Body acceleration signal derived in the time domain, mean, X-direction. Range: [-1,1]
 
 tBodyAcc-mean()-Y
 ..* Body acceleration signal derived in the time domain, mean, Z-direction. Range: [-1,1]
