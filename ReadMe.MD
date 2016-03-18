@@ -9,7 +9,7 @@ Jakob Larsen, March 18 2016
 3. tidydata.txt
   * Output from script
 4. run_analysis.R
-  *Script
+  * Script
   
 ## Project Description
 From the site of the course: Getting and Cleaning Data, Coursera.org. Authors: Jeff Leek, PhD, Roger Peng, PhD, Brian Caffo, PhD.
@@ -31,7 +31,14 @@ You should create one R script called run_analysis.R that does the following.
 Good luck!
 
 ## Workings of Script
-Tjek kode og beskriv kort
+1. Read activities and features and select indices for mean and standar deviation
+2. Read data on measurements for training and test subjects and merge via rbind
+3. Read data on subjects for training and test and merge via rbind
+4. Read data on activities for training and test and merge via rbind
+5. Select only measurements on mean and standard deviation
+6. Combine to final data via cbind
+7. Appropriately name and lael variables
+8. Create tidy data set with averages for subject and activity
 
 ## Instructions
 1. Unzip the data above in a folder on your local drive, say c:\Users\yourname\Documents\R\
